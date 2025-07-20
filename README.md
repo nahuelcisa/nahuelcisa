@@ -1,9 +1,9 @@
 <h1 align="center">Hola👋, Soy Nahuel Cisa</h1>
 <h3 align="center">Técnico en programación.</h3>
 
-- 🔭 Actualmente estoy desarrollando **E-commerce CAI**
+- 🔭 Actualmente desarrollando en Osiris Group.
 
-- 🌱 Actualmente estudio **Angular 18 & Node.JS**
+- 🌱 Tecnología **React & MySQL**
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
